@@ -53,7 +53,7 @@ A continuación, puedes ver algunas capturas de pantalla de la plataforma en acc
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/tu-usuario/tu-repositorio.git](https://github.com/Diana1Herrera/Proyecto-Start-ioT-FrontEnd.git 
 
 # Navegar al proyecto
-cd tu-repositorio
+cd Proyecto-Start-ioT-FrontEnd
